@@ -1,0 +1,17 @@
+body{
+    background: #fea626;
+    font-family: Arial;
+  }
+  
+  .menu{
+    background-color:white;
+  }
+  
+  .menu ul{
+   display: flex;
+   justify-content: space-around;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
